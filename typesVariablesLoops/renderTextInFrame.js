@@ -1,3 +1,4 @@
+//РОБІТЬ САМІ!!!!//
 function renderTextInFrame(text) {
   let temp = "";
   let result = '';
